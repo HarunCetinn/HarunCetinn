@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![alt text][1.1]][1] 
-[1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/haruncetinn/)
-[1]: https://twitter.com/KotuYazilimci 
+[![website](./img/twitter-light.svg)](https://twitter.com/KotuYazilimci#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/KotuYazilimci#gh-dark-mode-only)
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=HarunCetinn&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarunCetinn&hide=javascript,css,scss,html,less&theme=tokyonight)
