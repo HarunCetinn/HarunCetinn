@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/haruncetinn/)
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=HarunCetinn&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarunCetinn&theme=tokyonight)
