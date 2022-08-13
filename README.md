@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![alt text][1.1]][1] 
+[1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/haruncetinn/)
 [1]: https://twitter.com/KotuYazilimci 
 
